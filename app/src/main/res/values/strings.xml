@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="name">Name</string>
+    <string name="high_priority">High priority</string>
+    <string name="middle_priority">Middle priority</string>
+    <string name="low_priority">Low priority</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_note">Add Note</string>
+    <string name="search">Search</string>
+    <string name="high">High</string>
+    <string name="middle">Middle</string>
+    <string name="low">Low</string>
+    <string name="back">Back</string>
+    <string name="date_and_time">Date\&amp;Time</string>
+    <string name="cancle">Cancle</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="what_to_do">What to do?</string>
+    <string name="edit_note">Edit</string>
+</resources>

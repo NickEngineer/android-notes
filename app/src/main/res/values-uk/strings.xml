@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Лаб1</string>
+    <string name="add_new_note">Додати нову нотатку</string>
+    <string name="name">Назва</string>
+    <string name="high_priority">Високий пріоритет</string>
+    <string name="middle_priority">Середній пріоритет</string>
+    <string name="low_priority">Низький пріоритет</string>
+    <string name="add_image">Додати зображення</string>
+    <string name="add_note">Додати нотатку</string>
+    <string name="search">Пошук</string>
+    <string name="high">Вис</string>
+    <string name="middle">Сер</string>
+    <string name="low">Низьк</string>
+    <string name="back">Назад</string>
+    <string name="date_and_time">Дата\&amp;Час</string>
+
+    <string name="cancle">Скасувати</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+    <string name="what_to_do">Що робити далі?</string>
+    <string name="edit_note">Редагувати</string>
+</resources>
